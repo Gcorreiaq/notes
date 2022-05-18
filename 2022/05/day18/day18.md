@@ -31,7 +31,7 @@
 
 	Observe that 11 is a prime and the composite 12 = 2 · 2 · 3 = 2 · 3 · 2. Thus, the prime 2 is a factor of 12 exactly twice and the prime 3 is a factor of 12 exactly once and 12 can be written uniquely as 12 = 2 · 2 · 3 except for the fact that the order of the prime factors on the right-hand side of the last equation may be changed.
 
-- Side Notes
+- ### Side Notes
 	The number 1 is neither a composite number nor a prime number.
 
 	It follows from the definition of composite number that the natural number n is composite if and only if there exist natural numbers a and b such that n = ab where 1 < a < n and 1 < b < n.
