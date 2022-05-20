@@ -1,6 +1,6 @@
 # Scope
-	- ## [NextJS](#nextjs)
-	- ## [Algorithms](#algorithms)
+- ## [NextJS](#nextjs)
+- ## [Algorithms](#algorithms)
 
 
 ## Nextjs
