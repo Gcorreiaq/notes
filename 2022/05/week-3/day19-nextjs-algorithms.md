@@ -7,15 +7,17 @@
 
 - ### Object Destructuring
 	You can avoid 'prop' by using object destructuring, example:
-
+	```
 	function Header({ title })
 	{
 		console.log(title);
 		return <h1>React</h1>
 	}
-	////
+	```	
 	Then you render:
+	```
 	ReactDOM.render(<Header />, app);
+	```
 
 - ### Navigation between pages
 
