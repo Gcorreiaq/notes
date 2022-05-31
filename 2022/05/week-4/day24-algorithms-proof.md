@@ -37,6 +37,6 @@ P and NP stand for **complexity classes**. It seems that complexity classes will
 For all odd integers n, the integer n^2 is odd 
 n^2 = (2k+1)^2 = 4k^2 + 4k + 1 = 2(2k^2 + 2k) + 1
 ``` 
-- This statement from the example is logically equivalent to "If _n_ is an odd integer, then n^2 is an odd integer", notice that it can represent all the universe _U_ from the previous example, since we are letting n be an arbitrary number, so we assume n is an element from _U_ and P(x) is true, then we try to prove Q(x) is also true, therefore we are proving x ∈ U, P(x) ⇒ Q(x). \
+- This statement from the example is logically equivalent to "If _n_ is an odd integer, then n^2 is an odd integer", notice that it can represent all the universe _U_ from the previous example, since we are letting n be an arbitrary number, so we assume n is an element from _U_ and P(x) is true, then we deduce Q(x) is also true. Consequently, to prove (∀x ∈ U )(P(x) ⇒ Q(x)), we let x be an arbitrary element of the universal set U, so x ∈ U, P(x) ⇒ Q(x). \
 \
 So "For all...Q(x)" ≡ "If P(x)...then Q(x), where x is a arbitrary number from the universe of discourse of the first statement".
